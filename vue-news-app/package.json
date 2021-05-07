@@ -7,11 +7,16 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@tailwindcss/line-clamp": "^0.2.0",
+    "date-fns": "^2.21.2",
     "vue": "^3.0.5"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.2.2",
     "@vue/compiler-sfc": "^3.0.5",
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.14",
+    "tailwindcss": "^2.1.2",
     "vite": "^2.2.3"
   }
 }
